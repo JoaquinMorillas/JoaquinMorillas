@@ -1,51 +1,75 @@
- Hi, I'm Joaquín!
-🔬 From Biochemistry to Software Development
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>
 
-I have a background in Biochemistry with a specialization in Clinical Chemistry, where I developed strong skills in problem-solving, analytical thinking, and precision.
-Today, I am channeling these skills into my growing passion for software development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Biochemist+turned+Developer;Fullstack+Developer+in+training;Building+real-world+projects;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
-🚀 About Me
-🌟 Career transitioner into fullstack development.
+# 👋 Hi there! I'm Joaquín
 
-📚 Currently enrolled in a fullstack program covering React, Spring Boot, MySQL, AWS, and more.
+---
 
-🐍 Proficient with Python for personal and academic projects, using libraries like Pandas and TensorFlow.
+## 💬 About Me
 
-🛠️ Building a portfolio of projects on GitHub — with more coming soon!
+🎓 I have a background in **Biochemistry** with a specialization in Clinical Chemistry.  
+💻 Passionate about technology, I am transitioning into **Software Development**.  
+📚 Currently completing a **Fullstack Web Development program at Digital House**, supported by **Mercado Libre (MELI)** and **Globant**.  
+🚀 I am committed to building scalable, real-world applications and continuously growing as a developer.
 
-🔍 Actively seeking opportunities to grow as a developer and apply my scientific and technical background.
+---
 
-🛠️ Technologies & Tools
-Languages:
-Python | JavaScript | Java
+## 🛠️ Tech Stack
 
-Frontend:
-React
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Backend:
-Spring Boot
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Database:
-MySQL
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-Cloud:
-AWS (basic knowledge)
+**Database:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Data Science & Machine Learning:
-Pandas | TensorFlow
+**Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-📈 Current Focus
-Developing fullstack applications with React + Spring Boot.
+**Data Science / Machine Learning:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Learning best practices in REST API development and deployment.
+---
 
-Expanding my understanding of cloud infrastructure with AWS.
+## 🚀 Featured Projects
 
-📫 Let's Connect!
-Email: joaquimmorillasarce
+### 🐍 Python
+- 🔬 **Laboratory Shift Scheduler** — automate laboratory work shifts efficiently.
+- 🧾 **Invoice Maker** — generate invoices quickly and easily for lab services.
+- 🧪 **WBC Classifier** — a convolutional deep neural network (CNN) to classify white blood cells (WBCs) using TensorFlow.
 
-LinkedIn: https://www.linkedin.com/in/joaquin-morillas-7b97b1254/
+### ⚛️ React
+- 🛒 **Fake Clothing Store** — an e-commerce frontend using React and fake store API.
+- ☀️ **Weather App** — a real-time weather application fetching data from open weather APIs.
+- 🎬 **Movie Searcher** — a movie search engine with filtering and detailed movie info.
 
-GitHub: https://github.com/JoaquinMorillas
+### 🌱 Spring Boot (In Progress)
+- 🦷 **Dentist Clinic API** — backend API for managing dentists, patients, and appointments.
 
-🛠️ I am excited to keep growing, learning, and building — and I'm looking forward to joining a team where I can contribute and evolve as a developer!
+---
+
+
+## 📫 Let's Connect
+
+- ✉️ Email: joaquimmorillasarce@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/joaquin-morillas-7b97b1254/
+- 💻 GitHub: https://github.com/JoaquinMorillas
+
+---
+
+<p align="center">
+  🌟 **I'm open to junior developer opportunities — Let's build something amazing together!** 🌟
+</p>
