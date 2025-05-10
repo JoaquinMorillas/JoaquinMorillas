@@ -48,7 +48,7 @@
 
 ### 🐍 Python
 - 🔬 **Laboratory Shift Scheduler** — automate laboratory work shifts efficiently.
-- 🧾 **Invoice Maker** — generate invoices quickly and easily for lab services.
+- 🧾 **Invoice Maker** —  generates invoices while tracking which partner issued each invoice, enabling fair income distribution .
 - 🧪 **WBC Classifier** — a convolutional deep neural network (CNN) to classify white blood cells (WBCs) using TensorFlow.
 
 ### ⚛️ React
